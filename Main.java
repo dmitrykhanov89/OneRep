@@ -8,5 +8,6 @@ class ArrayDemo {
             sample[i] = i;
         for (i = 0; i < 10; i = i + 1)
             System.out.println("Элемент[" + i + "]: " + sample[i]);
+        System.out.println("hello git");
     }
 }
